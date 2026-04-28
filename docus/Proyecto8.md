@@ -1,5 +1,35 @@
 Visibilidad - Animal Horror
 
+- ¿Cuáles son los objetivos que se persiguen con la producción del videojuego?
+
+- ¿Cómo has tenido en cuenta el posible éxito del proyecto en el diseño del mismo?
+Nos hemos basado en juegos similares. (incompleto)
+
+A continuación, realiza un análisis DAFO del proyecto de videojuego propuesto. Añádelo a un archivo .md en forma de tabla.
+
+En el mismo archivo (u otro con extensión .md en el mismo repositorio), incluye:
+
+- Una tabla con la estimación de los recursos necesarios y costes de la producción (en función del tiempo).
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Cell 2   | Cell 3   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
+
+- La viabilidad del proyecto en función de la estimación anterior.
+
+- Cómo se va a mantener la calidad del proyecto.
+
+Por último, investiga cuáles son los costes necesarios para la publicación del videojuego en las plataformas Itch.io y Steam e indica algunas ideas para poder conseguir la financiación.
+
+## Costes para publicación
+### Publicación en Steam
+
+### Publicación en Itch.io
+
+### Ideas para financiación
+
+
 
 
 ---------------------------------------------------PROYECTO 8 : Instrucciones------------------------------------------------------------
