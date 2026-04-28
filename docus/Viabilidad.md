@@ -51,7 +51,7 @@ Ideal para lanzar la "Fase 1". Al permitir un reparto de ingresos del 0-10%, el 
 * **Playtesting:** Sesiones mensuales para asegurar que la mecánica de la cámara sea intuitiva.
 * **Control de Versiones:** Uso de Git para evitar pérdida de progreso técnico.
 * **Fidelidad Estética:** Pruebas de post-procesado para asegurar que el efecto "PSX" no canse la vista del jugador.
-* **Soporte:** Crear un servidor de discord para crear un espacio donde la comunidad pueda dar feedback. Monitorización del juego tras la salida para asegurar una rápida respuesta a cualquier tipo de error.
+* **Soporte:** Crear un servidor de discord para formar un espacio donde la comunidad pueda dar feedback. Monitorización del juego tras la salida para asegurar una rápida respuesta a cualquier tipo de error.
 
 # Investigación de Publicación y Financiación
 
