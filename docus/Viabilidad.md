@@ -5,7 +5,7 @@ Tiempo total: 3 meses
 | ---- | --- | --- | --- |
 | **Equipo Core** | 7 personas (Programación, Arte, Diseño) | 0€ | - |
 | **Asesoría/Guion** | Revisión de narrativa (salud mental) | 0€ | - |
-| **Tasa Steam** | Steam Direct Fee | 84,99€ (€100 USD) | - |
+| **Tasa Steam** | Steam Direct Fee | 84,99€ ($100 USD) | - |
 | **Marketing** | Redes Sociales (Instagram, Tiktok, X (Twitter)), Participación en eventos | 0€ | 100 - 200€ |
 | **TOTAL** | | **84,99€** | **184,99 - 284,99€**
 
@@ -15,9 +15,9 @@ Tiempo total: 3 meses
 
 # Viabilidad Económica y Distribución (Basado en datos de Itch/Steam)
 ## Viabilidad en Steam 
-Para recuperar la inversión y la tasa de €100, se estima un precio de **€14.99**. Tras el 30% de Steam y el IVA, el beneficio neto por copia es de aprox. **€8.50**. Se requieren ~4,500 ventas para el punto de equilibrio.
+Se estima un precio de **5,99€**. Tras el 30% de Steam y el IVA, el beneficio neto por copia es de aprox. **4,37€**. Se requieren ~23 ventas para el punto de equilibrio.
 ## Viabilidad en Itch.io
-Ideal para lanzar la "Fase 1". Al permitir un reparto de ingresos del 0-10%, el margen es mayor. Siguiendo tus datos: en un pago de €500, recibiríamos el **77.4%** de los ingresos brutos, lo cual es vital para el flujo de caja inicial.
+Ideal para lanzar la "Fase 1". Al permitir un reparto de ingresos del 0-10%, el margen es mayor. 
 
 > [!NOTE]
 > **Ejemplo:**
@@ -43,14 +43,14 @@ Ideal para lanzar la "Fase 1". Al permitir un reparto de ingresos del 0-10%, el 
 >- IVA = 100.00€
 >- tarifa fija = 0.30€
 >- 2.9% = 14.50€
->- Eso es 114.8€0, por lo que recibirás 385.20€ antes de la conversión. >(obtienes el 77.4%)
+>- Eso es 114.8€0, por lo que recibirás 385.20€ antes de la conversión. (obtienes el 77.4%)
+>  
 >En teoría, podríamos obtener entre el 71% y el 87.1% del dinero (antes de la conversión) si el recorte de itch.io se establece en cero. Si les estás dando el 10%, entonces obtendrás del 63.9% al 76.99%
 
-
-
-- Cómo se va a mantener la calidad del proyecto.
-
-Por último, investiga cuáles son los costes necesarios para la publicación del videojuego en las plataformas Itch.io y Steam e indica algunas ideas para poder conseguir la financiación.
+# Mantenimiento de la Calidad
+* **Playtesting:** Sesiones mensuales para asegurar que la mecánica de la cámara sea intuitiva.
+* **Control de Versiones:** Uso de Git para evitar pérdida de progreso técnico.
+* **Fidelidad Estética:** Pruebas de post-procesado para asegurar que el efecto "PSX" no canse la vista del jugador.
 
 # Investigación de Publicación y Financiación
 
