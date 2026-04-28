@@ -13,7 +13,7 @@ Tiempo total: 3 meses
 
 *Este será un proyecto de ingreso al mercado por lo que el coste de recursos será muy inferior a lo que costaría un proyecto en una empresa ya asentada. 
 
-# Viabilidad Económica y Distribución (Basado en datos de Itch/Steam)
+# Viabilidad Económica y Distribución (Basado en datos de Itch.io/Steam)
 ## Viabilidad en Steam 
 Se estima un precio de **5,99€**. Tras el 30% de Steam y el IVA, el beneficio neto por copia es de aprox. **4,37€**. Se requieren ~23 ventas para el punto de equilibrio.
 ## Viabilidad en Itch.io
@@ -28,7 +28,7 @@ Ideal para lanzar la "Fase 1". Al permitir un reparto de ingresos del 0-10%, el 
 > - 2.9% de PayPal = 0.03€ (en realidad 0.029)
 > - Eso es un total de 0.53€, por lo que recibirás 0.47€ antes de la conversión. (solo el 47%)
 >
->En teoría, el tipo de cambio no debería costar mucho de eso, tal vez un >centavo o algo así.
+>En teoría, el tipo de cambio no debería costar mucho.
 >
 >Sin embargo, no se recibe un pago de PayPal cada vez que alguien compra el juego. Pagan cuando se tienen al menos 5€ en la cuenta y se solicita un pago.
 >
@@ -51,6 +51,7 @@ Ideal para lanzar la "Fase 1". Al permitir un reparto de ingresos del 0-10%, el 
 * **Playtesting:** Sesiones mensuales para asegurar que la mecánica de la cámara sea intuitiva.
 * **Control de Versiones:** Uso de Git para evitar pérdida de progreso técnico.
 * **Fidelidad Estética:** Pruebas de post-procesado para asegurar que el efecto "PSX" no canse la vista del jugador.
+* **Soporte:** Crear un servidor de discord para crear un espacio donde la comunidad pueda dar feedback. Monitorización del juego tras la salida para asegurar una rápida respuesta a cualquier tipo de error.
 
 # Investigación de Publicación y Financiación
 
@@ -62,4 +63,4 @@ Ideal para lanzar la "Fase 1". Al permitir un reparto de ingresos del 0-10%, el 
 1.  **Crowdfunding (Kickstarter/Indiegogo):** Ideal para juegos con estética fuerte como este. Requiere un vertical slice (demo) funcional.
 2.  **Publishers Indie:** Contactar con editoras especializadas en terror (ej. DreadXP, Puppet Combo) que financien el desarrollo a cambio de derechos de publicación.
 3.  **Subvenciones Públicas:** Investigar ayudas a la digitalización y contenidos culturales (dependiendo de la región).
-4.  **Early Access / Patreon:** Ofrecer acceso anticipado a la "Fase del Hospital" para financiar las fases restantes del duelo.
+4.  **Early Access / Patreon:** Ofrecer acceso anticipado a la "Fase del Hospital" para financiar las fases restantes de la historia.
